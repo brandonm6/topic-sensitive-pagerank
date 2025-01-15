@@ -1,6 +1,6 @@
 # topic-sensitive-pagerank
 
-## Using
+## Useage
 Files should be run in order to create the necessary dataframes for query processing.
 
 
