@@ -1,7 +1,8 @@
 # topic-sensitive-pagerank
 
 ## Usage
-Files should be run in order to create the necessary dataframes for query processing.
+Files should be run in order to create the necessary dataframes for query processing.  
+The *4_query_maker* notebook houses the results section.
 
 
 ## Data Sources
